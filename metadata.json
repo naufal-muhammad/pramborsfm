@@ -1,0 +1,7 @@
+{
+  "name": "Prambors FM Digital",
+  "description": "The official digital portal for Prambors FM - Indonesia's No. 1 Hit Music Station. Featuring live streaming, podcasts, charts, and news for Gen Z & Millennials.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
